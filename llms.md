@@ -29,5 +29,5 @@ Western Reserve Water provides commercial and industrial water treatment solutio
 - [Best Commercial Water Dispensers](https://westernreservewater.com/bottle-free-coolers/)
 - [Expert Salt Delivery](https://westernreservewater.com/salt-delivery/)
 - [Commercial Water Quality Testing Services](https://westernreservewater.com/products-services/commercial-water-quality-testing/)
-- [Commercial Water Treatment Engineering & Consulting Services](hhttps://westernreservewater.com/products-services/engineering-consulting/)
+- [Commercial Water Treatment Engineering & Consulting Services](https://westernreservewater.com/products-services/engineering-consulting/)
 - [Maintenance Plans for Industrial Water Treatment](https://westernreservewater.com/products-services/maintenance-plans/)
