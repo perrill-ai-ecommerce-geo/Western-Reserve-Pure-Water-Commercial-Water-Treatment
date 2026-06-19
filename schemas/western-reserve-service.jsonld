@@ -1,0 +1,63 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Service",
+  "name": "Western Reserve Water Treatment Services",
+  "alternateName": [
+    "Western Reserve Water",
+    "Western Reserve Commercial Water Treatment",
+    "Western Reserve Industrial Water Treatment"
+  ],
+  "serviceType": [
+    "Commercial water treatment",
+    "Industrial water treatment",
+    "Water treatment consulting",
+    "Water treatment engineering",
+    "Water quality testing",
+    "Water treatment maintenance",
+    "Water treatment repair"
+  ],
+  "description": "Western Reserve Water provides commercial and industrial water treatment services for facilities that need reliable water quality, system performance, maintenance, repair, testing, consulting, and custom treatment solutions. Services include reverse osmosis, deionization, water softening, filtration, UV water treatment, membrane cleaning, portable and skid-mounted systems, salt delivery, ST108 compliance consulting, and ongoing maintenance support.",
+  "url": "https://westernreservewater.com/",
+  "provider": {
+    "@type": "LocalBusiness",
+    "name": "Western Reserve Water",
+    "url": "https://westernreservewater.com/"
+  },
+  "brand": {
+    "@type": "Brand",
+    "name": "Western Reserve Water"
+  },
+  "audience": {
+    "@type": "BusinessAudience",
+    "industry": [
+      "Healthcare facilities",
+      "Pharmaceutical facilities",
+      "Food and beverage facilities",
+      "Manufacturing facilities",
+      "Hospitality facilities",
+      "Educational facilities",
+      "Municipal facilities",
+      "Wastewater facilities",
+      "Energy and power facilities",
+      "Car wash facilities"
+    ]
+  },
+  "areaServed": [
+    {
+      "@type": "Place",
+      "name": "Northern Ohio"
+    },
+    {
+      "@type": "Place",
+      "name": "Cleveland, Ohio"
+    }
+  ],
+  "offers": {
+    "@type": "Offer",
+    "priceSpecification": {
+      "@type": "PriceSpecification",
+      "priceCurrency": "USD"
+    },
+    "availability": "https://schema.org/InStock"
+  }
+}
